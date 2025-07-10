@@ -1,0 +1,173 @@
+.market{
+    background-color: gray;
+    border-radius: 20px;
+    background-image:url("stocks-logo.jpg") ;
+}
+
+.nav p{
+    color:#fff;
+    font-size: 50px;;
+    margin-left: 5em;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
+.market h1{
+    text-align: center;
+    color:#fff;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+.market h4{
+    color:#fff;
+    text-align: center;
+    font-size: 40px;
+    width:30%;
+    margin-left: 35%;
+    margin-top: 0px;
+    margin-bottom:0px;
+
+}
+.one{
+    display:flex;
+    justify-content: space-evenly;
+}
+.markets-1{
+    color:#fff;
+      background:rgba(84, 84, 160, 0.856);
+      padding:0px;
+      border-radius: 8px;
+       box-shadow: 0 0 15px rgba(245, 242, 242, 0.527);
+      width:250px;
+      margin-top:50px;
+
+}
+.markets-1 .image-1{
+    border:none;
+    border-radius: 10px;
+}
+
+ .one h2{
+    text-align: center;
+ }
+.one ul{
+    font-size: 20px;
+}
+
+.markets-2{
+    color:#fff;
+       background:rgba(84, 84, 160, 0.856);
+      padding:0px;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(245, 242, 242, 0.527);
+      width:250px;
+      margin-top:50px;
+}
+.markets-2 .image-2{
+    border:none;
+    border-radius: 10px;
+   
+}
+.markets-3{
+    color:#fff;
+       background:rgba(84, 84, 160, 0.856);
+      padding:0px;
+       border-radius: 8px;
+       box-shadow: 0 0 25px rgba(252, 251, 251, 0.918);
+      width:250px;
+      margin-top:50px;
+}
+.markets-3 .image-3{
+    border:none;
+    border-radius: 10px;
+   
+}
+
+.strategic{
+    color:#000;
+      background:rgba(245, 245, 245, 0.904);
+      border-radius: 8px;
+     box-shadow: 0 0 20px rgba(245, 242, 242, 0.527);
+      width:50%;
+      margin-top:100px;
+      margin-left:30%;
+      margin-top:30px;
+}
+.strategic h1{
+    text-align: left;
+    margin-left:30px;
+    font-size:30px;
+    width:50%;
+    padding-top: 20px;
+    color:#000;
+}
+.strategic p{
+    margin-left:20px;
+    width: 60%;
+    font-size:18px;
+    
+}
+
+.Clarity{
+    display: flex;
+    justify-content: space-evenly ;
+}
+.Clarity p{
+    margin-top:0px;
+}
+.Clarity h3{
+    margin-bottom:5px ;
+}
+.Clarity-1{
+     color:#fff;
+        background:rgba(84, 84, 160, 0.856);
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(245, 242, 242, 0.87);
+      width:150px;
+      margin-top:70px;
+      text-align:center;
+      margin-bottom:30px;
+      margin-top:20px;
+}
+.Clarity-2{
+     color:#fff;
+     background:rgba(84, 84, 160, 0.856);
+    border-radius: 8px;
+     box-shadow: 0 0 15px rgba(245, 242, 242, 0.527);
+      width:150px;
+      margin-top:70px;
+      text-align:center;
+      margin-bottom:30px;
+        margin-top:20px;
+}
+.Clarity-3{
+     color:#fff;
+       background:rgba(84, 84, 160, 0.856);
+      border-radius: 8px;
+     box-shadow: 0 0 15px rgba(245, 242, 242, 0.527);
+      width:150px;
+      margin-top:70px;
+      text-align:center;
+      margin-bottom:30px;
+        margin-top:20px;
+}
+.Clarity-4{
+     color:#fff;
+        background:rgba(84, 84, 160, 0.856);
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(245, 242, 242, 0.527);
+      width:150px;
+      margin-top:70px;
+      text-align:center;
+      margin-bottom:30px;
+        margin-top:20px;
+}
+
+.button{
+   background-color: aqua;
+   border:none;
+   border-radius: 10px;
+   font-size: 20px;
+   margin-left:35em;
+  margin-top:30px;
+}
